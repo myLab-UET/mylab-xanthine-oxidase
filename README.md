@@ -1,8 +1,8 @@
 # Unveiling Potent Xanthine Oxidase Inhibitors in two Balanophora spp. Extracts using ML-based Virtual Screening and Molecular Docking Approach
 
-Nguyen Ngoc An*, Dao Quang Tung, Le Van Tue, Nguyen Thanh Son, Nguyen Thanh Tung, Huong-Giang Le, Thai Chinh Tam, Daniel Baeker, Nguyen Thi Thuan, Do Thi Mai Dung
+Do Thi Mai Dung*, Nguyen Ngoc An, Dao Quang Tung, Le Van Tue, Nguyen Thanh Son, Nguyen Thanh Tung, Huong-Giang Le, Thai Chinh Tam, Daniel Baeker, Nguyen Thi Thuan
 
-*Correspondence: [ngocan@vnu.edu.vn](mailto:ngocan@vnu.edu.vn) (N.N.A)
+*Correspondence: [maidung.dtmd233@gmail.com](mailto:maidung.dtmd233@gmail.com) (D.T.M.D)
 
 This repository is the prove of our paper, which has been submitted for publication in Link.
 
@@ -29,5 +29,5 @@ conda env list
 
 ### Dataset location
 
-- The train, test and validation data are available in the data_for_modeling/train_test_data folder
-- The screening dataset is available in the data_for_modeling/screening_dataset.
+- The train, test and validation data are available in the data/train_test_data folder
+- The screening dataset is available in the data/screening_dataset.
