@@ -1,0 +1,1 @@
+*.wiff.scan filter=lfs diff=lfs merge=lfs -text
