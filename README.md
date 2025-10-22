@@ -1,8 +1,8 @@
 # Unveiling Potent Xanthine Oxidase Inhibitors in two Balanophora spp. Extracts using ML-based Virtual Screening and Molecular Docking Approach
 
-**Authors**: Nguyen Ngoc An, Dao Quang Tung, Le Van Tue, Nguyen Thanh Son, Nguyen Thanh Tung, Huong-Giang Le, Thai Chinh Tam, Daniel Baeker, Nguyen Thi Thuan, Do Thi Mai Dung*
+**Authors**: Nguyen Ngoc An, Dao Quang Tung, Le Van Tue, Nguyen Thanh Son, Nguyen Thanh Tung, Huong-Giang Le, Thai Chinh Tam, Nguyen Thi Thuan, Daniel Baeker, Do Thi Mai Dung*
 
-*Correspondence: [maidung.dtmd233@gmail.com](mailto:maidung.dtmd233@gmail.com) (D.T.M.D)
+*Correspondence: [dungdtm@hup.edu.vn](mailto:dungdtm@hup.edu.vn) (D.T.M.D)
 
 This repository is the prove of our paper, which has been submitted for publication in Link.
 
